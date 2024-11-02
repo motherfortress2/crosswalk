@@ -2,7 +2,7 @@
 let emulateServer = Blizzard;
 let blizzardServer = emulateServer + port;
 const username = "SpaceWD";
-var password = 
+var password = "";
 const penguinColor = "2";
 const port = 6114
 const era = "AS1"
