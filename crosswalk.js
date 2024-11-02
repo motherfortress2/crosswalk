@@ -4,5 +4,5 @@ let blizzardServer = emulateServer + port;
 const username = "SpaceWD";
 var password = "test";
 const penguinColor = "2";
-const port = 6114
-const era = "AS1"
+const port = 6114;
+const era = "AS1";
